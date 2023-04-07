@@ -1,3 +1,3 @@
 # prathamshroff.github.io
 
-- [Version 2](https://prathamshroff.github.io/CS50W/project0/)
+- [Harvard CS50 Web | Version (2)](https://prathamshroff.github.io/Harvard-CS50W/project0/)
